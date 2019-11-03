@@ -66,7 +66,7 @@ programmer_hash.merge(:yukihiro_matsumoto => {
    :known_for => "Ruby",
     :languages => ["LISP, C"]
  }
-
+end
 	programmer_hash = 
  		{
         :grace_hopper => {
