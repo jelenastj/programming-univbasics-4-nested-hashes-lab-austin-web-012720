@@ -82,7 +82,7 @@ programmer_hash =
 programmer_hash.merge(:yukihiro_matsumoto => {
    :known_for => "Ruby",
     :languages => ["LISP, C"]
- }
+ })
  programmer_hash
 end
 
